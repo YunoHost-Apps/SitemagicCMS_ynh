@@ -26,10 +26,6 @@ Content Management System
 ![](./doc/screenshots/.DS_Store)
 ![](./doc/screenshots/Designer.jpeg)
 
-## Disclaimers / important information
-
-The default username and password is "admin". Make sure you change at least the password immediately under Admin > Settings
-
 ## Documentation and resources
 
 * Official app website: https://sitemagic.org/

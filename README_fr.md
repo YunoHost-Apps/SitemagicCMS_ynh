@@ -22,10 +22,6 @@ Système de gestion de contenu
 ![](./doc/screenshots/.DS_Store)
 ![](./doc/screenshots/Designer.jpeg)
 
-## Avertissements / informations importantes
-
-The default username and password is "admin". Make sure you change at least the password immediately under Admin > Settings
-
 ## Documentations et ressources
 
 * Site officiel de l'app : https://sitemagic.org/
