@@ -1,7 +1,7 @@
 # Sitemagic CMS pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/sitemagic.svg)](https://dash.yunohost.org/appci/app/sitemagic) ![](https://ci-apps.yunohost.org/ci/badges/sitemagic.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/sitemagic.maintain.svg)  
-[![Installer Sitemagic CMS avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=sitemagic)
+[![Niveau d'intégration](https://dash.yunohost.org/integration/sitemagiccms.svg)](https://dash.yunohost.org/appci/app/sitemagiccms) ![](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.maintain.svg)  
+[![Installer Sitemagic CMS avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=sitemagiccms)
 
 *[Read this readme in english.](./README.md)*
 *[Lire ce readme en français.](./README_fr.md)*
@@ -27,18 +27,18 @@ Système de gestion de contenu
 * Site officiel de l'app : https://sitemagic.org/
 * Documentation officielle de l'admin : https://sitemagic.org/sites/cms-guide/
 * Dépôt de code officiel de l'app : https://github.com/Jemt/SitemagicCMS
-* Documentation YunoHost pour cette app : https://yunohost.org/app_sitemagic
-* Signaler un bug : https://github.com/YunoHost-Apps/sitemagic_ynh/issues
+* Documentation YunoHost pour cette app : https://yunohost.org/app_sitemagiccms
+* Signaler un bug : https://github.com/YunoHost-Apps/sitemagiccms_ynh/issues
 
 ## Informations pour les développeurs
 
-Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/sitemagic_ynh/tree/testing).
+Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/sitemagiccms_ynh/tree/testing).
 
 Pour essayer la branche testing, procédez comme suit.
 ```
-sudo yunohost app install https://github.com/YunoHost-Apps/sitemagic_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/YunoHost-Apps/sitemagiccms_ynh/tree/testing --debug
 ou
-sudo yunohost app upgrade sitemagic -u https://github.com/YunoHost-Apps/sitemagic_ynh/tree/testing --debug
+sudo yunohost app upgrade sitemagiccms -u https://github.com/YunoHost-Apps/sitemagiccms_ynh/tree/testing --debug
 ```
 
 **Plus d'infos sur le packaging d'applications :** https://yunohost.org/packaging_apps
