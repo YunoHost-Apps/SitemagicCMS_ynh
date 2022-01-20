@@ -6,7 +6,7 @@
         "en": "Content Management System",
         "fr": "Système de gestion de contenu"
     },
-    "version": "4.4.2~ynh2",
+    "version": "4.4.2~ynh3",
     "url": "https://sitemagic.org/",
     "upstream": {
         "license": "FSFULLR",
