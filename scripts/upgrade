@@ -86,6 +86,9 @@ chmod 750 "$final_path"
 chmod -R o-rwx "$final_path"
 chown -R $app:www-data "$final_path"
 
+chmod 660 "$final_path/config.xml.php"
+chown $app:$app "$final_path/config.xml.php"
+
 #=================================================
 # NGINX CONFIGURATION
 #=================================================
