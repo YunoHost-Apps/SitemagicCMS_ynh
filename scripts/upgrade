@@ -79,7 +79,7 @@ then
 	ynh_script_progression --message="Upgrading source files..." --weight=1
 
 	# Download, check integrity, uncompress and patch the source from app.src
-	ynh_setup_source --dest_dir="$final_path" --keep="config.xml.php $final_path/data $final_path/files $final_path/templates/*"
+	ynh_setup_source --dest_dir="$final_path" --keep="config.xml.php data files templates/*"
 fi
 
 chmod 750 "$final_path"
