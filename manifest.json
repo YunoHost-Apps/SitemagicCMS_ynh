@@ -6,7 +6,7 @@
         "en": "Content Management System",
         "fr": "Système de gestion de contenu"
     },
-    "version": "4.4.2~ynh3",
+    "version": "4.4.2~ynh4",
     "url": "https://sitemagic.org/",
     "upstream": {
         "license": "FSFULLR",
@@ -20,12 +20,12 @@
         "email": ""
     },
     "requirements": {
-        "yunohost": ">= 4.3.0"
+        "yunohost": ">= 11.0.9"
     },
     "multi_instance": true,
     "services": [
         "nginx",
-        "php7.3-fpm"
+        "php7.4-fpm"
     ],
     "arguments": {
         "install" : [

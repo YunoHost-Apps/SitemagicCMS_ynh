@@ -5,7 +5,7 @@ It shall NOT be edited by hand.
 
 # Sitemagic CMS for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/sitemagiccms.svg)](https://dash.yunohost.org/appci/app/sitemagiccms) ![](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/sitemagiccms.svg)](https://dash.yunohost.org/appci/app/sitemagiccms) ![Working status](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.maintain.svg)  
 [![Install Sitemagic CMS with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=sitemagiccms)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -17,32 +17,32 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Sitemagic is a Content Management System. It's very unique in its approach to design. Sitemagic CMS is a comprehensive Content Management System that allows anyone to easily manage pages, files, menu, forms, and external modules such as maps, social media plugins, videos, and more. But there's also a ton of hidden features that helps you save time such as automatic mobile and search engine optimizations (SEO).
 
-**Shipped version:** 4.4.2~ynh3
-
+**Shipped version:** 4.4.2~ynh4
 
 
 ## Screenshots
 
-![](./doc/screenshots/.DS_Store)
-![](./doc/screenshots/Designer.jpeg)
+![Screenshot of Sitemagic CMS](./doc/screenshots/.DS_Store)
+![Screenshot of Sitemagic CMS](./doc/screenshots/Designer.jpeg)
 
 ## Documentation and resources
 
-* Official app website: https://sitemagic.org/
-* Official admin documentation: https://sitemagic.org/sites/cms-guide/
-* Upstream app code repository: https://github.com/Jemt/SitemagicCMS
-* YunoHost documentation for this app: https://yunohost.org/app_sitemagiccms
-* Report a bug: https://github.com/YunoHost-Apps/sitemagiccms_ynh/issues
+* Official app website: <https://sitemagic.org/>
+* Official admin documentation: <https://sitemagic.org/sites/cms-guide/>
+* Upstream app code repository: <https://github.com/Jemt/SitemagicCMS>
+* YunoHost documentation for this app: <https://yunohost.org/app_sitemagiccms>
+* Report a bug: <https://github.com/YunoHost-Apps/sitemagiccms_ynh/issues>
 
 ## Developer info
 
 Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/sitemagiccms_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
-```
+
+``` bash
 sudo yunohost app install https://github.com/YunoHost-Apps/sitemagiccms_ynh/tree/testing --debug
 or
 sudo yunohost app upgrade sitemagiccms -u https://github.com/YunoHost-Apps/sitemagiccms_ynh/tree/testing --debug
 ```
 
-**More info regarding app packaging:** https://yunohost.org/packaging_apps
+**More info regarding app packaging:** <https://yunohost.org/packaging_apps>
