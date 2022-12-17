@@ -19,7 +19,6 @@ Sitemagic is a Content Management System. It's very unique in its approach to de
 
 **Shipped version:** 4.4.2~ynh4
 
-
 ## Screenshots
 
 ![Screenshot of Sitemagic CMS](./doc/screenshots/.DS_Store)
