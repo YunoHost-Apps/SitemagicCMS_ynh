@@ -21,7 +21,6 @@ Sitemagic is a Content Management System. It's very unique in its approach to de
 
 ## Screenshots
 
-![Screenshot of Sitemagic CMS](./doc/screenshots/.DS_Store)
 ![Screenshot of Sitemagic CMS](./doc/screenshots/Designer.jpeg)
 
 ## Documentation and resources
