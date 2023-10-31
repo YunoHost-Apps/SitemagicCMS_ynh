@@ -29,7 +29,7 @@ Sitemagic is a Content Management System. It's very unique in its approach to de
 * Official app website: <https://sitemagic.org/>
 * Official admin documentation: <https://sitemagic.org/sites/cms-guide/>
 * Upstream app code repository: <https://github.com/Jemt/SitemagicCMS>
-* YunoHost documentation for this app: <https://yunohost.org/app_sitemagiccms>
+* YunoHost Store: <https://apps.yunohost.org/app/sitemagiccms>
 * Report a bug: <https://github.com/YunoHost-Apps/sitemagiccms_ynh/issues>
 
 ## Developer info
