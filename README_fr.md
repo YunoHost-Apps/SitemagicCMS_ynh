@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Sitemagic is a Content Management System. It's very unique in its approach to design. Sitemagic CMS is a comprehensive Content Management System that allows anyone to easily manage pages, files, menu, forms, and external modules such as maps, social media plugins, videos, and more. But there's also a ton of hidden features that helps you save time such as automatic mobile and search engine optimizations (SEO).
 
-**Version incluse :** 4.4.2~ynh4
+**Version incluse :** 4.4.2~ynh5
 
 ## Captures d’écran
 
