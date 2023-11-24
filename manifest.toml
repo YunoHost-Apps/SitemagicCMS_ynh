@@ -5,7 +5,7 @@ name = "Sitemagic CMS"
 description.en = "Content Management System"
 description.fr = "Système de gestion de contenu"
 
-version = "4.4.2~ynh4"
+version = "4.4.2~ynh5"
 
 maintainers = ["eric_G"]
 
@@ -16,11 +16,14 @@ admindoc = "https://sitemagic.org/sites/cms-guide/"
 code = "https://github.com/Jemt/SitemagicCMS"
 
 [integration]
-yunohost = ">= 11.1.21"
+yunohost = ">= 11.2"
 architectures = "all"
 multi_instance = true
+
 ldap = false
+
 sso = false
+
 disk = "50M"
 ram.build = "50M"
 ram.runtime = "50M"
@@ -43,7 +46,7 @@ ram.runtime = "50M"
     [install.language]
     ask.en = "Choose the application language"
     ask.fr = "Choisissez la langue de l'application"
-    type = "string"
+    type = "select"
     choices = ["da", "de", "el", "fr", "en", "sr"]
     default = "fr"
 
@@ -64,7 +67,7 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "mariadb-server php7.4-fpm php7.4-mysql"
+    packages = "mariadb-server, php8.2-mysql"
 
     [resources.database]
     type = "mysql"
