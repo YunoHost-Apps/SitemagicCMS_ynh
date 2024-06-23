@@ -24,6 +24,10 @@ Sitemagic is a Content Management System. It's very unique in its approach to de
 
 ![Sitemagic CMS(r)en pantaila-argazkia](./doc/screenshots/Designer.jpeg)
 
+## :red_circle: Ezaugarri zalantzagarriak
+
+- **Jatorrizko garapena utzita**: Software honek ez du arduradunik. Denborak aurrera egin ahala funtzionatzeari utziko dio, konpondu gabeko segurtasun arazoak izango ditu, etab.
+
 ## Dokumentazioa eta baliabideak
 
 - Aplikazioaren webgune ofiziala: <https://sitemagic.org/>

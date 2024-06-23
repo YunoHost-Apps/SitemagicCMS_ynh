@@ -24,6 +24,10 @@ Sitemagic is a Content Management System. It's very unique in its approach to de
 
 ![Screenshot of Sitemagic CMS](./doc/screenshots/Designer.jpeg)
 
+## :red_circle: Antifeatures
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
+
 ## Documentation and resources
 
 - Official app website: <https://sitemagic.org/>

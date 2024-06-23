@@ -3,7 +3,7 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 Sitemagic CMS
+# YunoHost 上的 Sitemagic CMS
 
 [![集成程度](https://dash.yunohost.org/integration/sitemagiccms.svg)](https://dash.yunohost.org/appci/app/sitemagiccms) ![工作状态](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.maintain.svg)
 
@@ -23,6 +23,10 @@ Sitemagic is a Content Management System. It's very unique in its approach to de
 ## 截图
 
 ![Sitemagic CMS 的截图](./doc/screenshots/Designer.jpeg)
+
+## :red_circle: 负面特征
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
 
 ## 文档与资源
 
