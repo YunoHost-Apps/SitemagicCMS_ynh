@@ -5,7 +5,7 @@ No se debe editar a mano.
 
 # Sitemagic CMS para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/sitemagiccms.svg)](https://dash.yunohost.org/appci/app/sitemagiccms) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/sitemagiccms.svg)](https://ci-apps.yunohost.org/ci/apps/sitemagiccms/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.maintain.svg)
 
 [![Instalar Sitemagic CMS con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=sitemagiccms)
 

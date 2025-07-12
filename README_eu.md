@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # Sitemagic CMS YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/sitemagiccms.svg)](https://dash.yunohost.org/appci/app/sitemagiccms) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/sitemagiccms.svg)](https://ci-apps.yunohost.org/ci/apps/sitemagiccms/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/sitemagiccms.maintain.svg)
 
 [![Instalatu Sitemagic CMS YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=sitemagiccms)
 
